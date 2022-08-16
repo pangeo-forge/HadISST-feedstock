@@ -13,7 +13,10 @@ provenance:
         - producer
         - licensor
       url: https://www.metoffice.gov.uk/hadobs/hadisst/index.html
-  license: "TBD" # I need some help encoding this properly (see discussion)
+  license: "proprietary"
+  license_link:
+    title: "UK Non-Commercial Government License" 
+    url: https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/
 maintainers:
   - name: "Julius Busecke"
     orcid: "0000-0001-8571-865X"
